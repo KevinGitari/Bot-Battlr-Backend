@@ -26,7 +26,7 @@ To get started with Bot Battlr, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/bot-battlr.git
+   git clone https://github.com/KevinGitari/bot-battlr.git
    cd bot-battlr
    ```
 
